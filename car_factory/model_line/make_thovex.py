@@ -21,7 +21,7 @@ from car_factory.car_factory import carFactory
 from engine.engine_type.capulet_engine import CapuletEngine
 from battery.battery_type.nubbin_battery import nubbinBattery
 
-class modelCalliope(carFactory):
+class modelThovex(carFactory):
     def __init__(self, current_mileage, last_service_mileage, current_date, last_service_date) -> None:
         self.current_mileage = current_mileage
         self.last_service_mileage = last_service_mileage
