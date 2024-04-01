@@ -1,4 +1,3 @@
-
 import argparse
 from car_factory.model_line.make_calliope import modelCalliope
 from car_factory.model_line.make_glissade import modelGlissade
@@ -60,7 +59,6 @@ if __name__ == '__main__':
     parser.add_argument("--current_date", type=str, required=True, default='2024-01-01', help='Current date')
     parser.add_argument("--last_service_date", type=str, required=True, default='2024-01-01', help='Date of the last service')
 
-    # Example usage
     args = parser.parse_args()
     app = Application()
     app.main(args.model_name, 
