@@ -27,7 +27,7 @@ Integrated Test-Driven Development workflow to add new functionality to the refa
 ### Experiment 1 
 Upgraded parts to test the new system's ease of use for future team members when adding new service criteria and changing parts for each car model (e.g., changing the type of battery installed in a car model).
 
-### Experiement 2
+### Experiment 2
 New parts, such as tires, were added to demonstrate the extensibility of the new system. This shows that the components are extensible and simple to modify. The new system is modularized, meaning that complex changes to multiple classes are unnecessary when adding new functionalities. This allows for the rapid and efficient addition of new service criteria.
 
 ### Conclusion: 
