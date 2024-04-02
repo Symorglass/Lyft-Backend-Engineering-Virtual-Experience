@@ -3,6 +3,7 @@ This repo contains the codebase of the tasks included in the virtual experience 
 
 ## Task 1: Design a clean architecture for an existing, unfinished component in Lyft Rentals user case.
 Drafted a [UML class diagram](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/uml-class-diagram-tutorial/) that represents a new reorganized architecture.
+![UML Diagram of New Architecture](Lyft_Backend_Project_UML_diagram.png)
 
 ## Task 2: Refactor a messy codebase
 - Implemented the new architecture using [Factory Pattern](https://refactoring.guru/design-patterns/factory-method) to allow easy extensibility going forward.
