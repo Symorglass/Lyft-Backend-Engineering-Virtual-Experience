@@ -5,10 +5,10 @@ This repo contains the codebase of the tasks included in the virtual experience 
 Drafted a [UML class diagram](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/uml-class-diagram-tutorial/) that represents a new reorganized architecture.
 
 - UML diagram of my new architecture:
-![UML Diagram of New Architecture](UML_diagram_Lyft_backend_project.png)
+![UML Diagram of New Architecture](Diagrams/UML_diagram_Lyft_backend_project.png)
 
 - UML diagram of previous architecture from original codebase:
-![UML Diagram of Old Architecture](Previous_UML_Diagram_Lyft_backend_project.png)
+![UML Diagram of Old Architecture](Diagrams/Previous_UML_Diagram_Lyft_backend_project.png)
 
 ## Task 2: Refactor a messy codebase
 - Implemented the new architecture using [Factory Pattern](https://refactoring.guru/design-patterns/factory-method) to allow easy extensibility going forward.
