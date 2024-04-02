@@ -15,7 +15,7 @@ Drafted a [UML class diagram](https://www.visual-paradigm.com/guide/uml-unified-
 - [Refactored](https://refactoring.guru/refactoring) the codebase.
 
 ## Task 3: Develop comprehensive unit tests for the newly refactored system
-Written unit tests to guarantee each functionality works as expected.
+Written [unit tests](test/test.py) to guarantee each functionality works as expected.
 
 ## Task 4: Add new functionality to your system using Test-Driven Development
-Integrated Test-Driven Development workflow to add new functionality to the refactored system.
+Integrated Test-Driven Development workflow to add new functionality to the refactored system. 
