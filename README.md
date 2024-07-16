@@ -10,7 +10,7 @@ Drafted a [UML class diagram](https://www.visual-paradigm.com/guide/uml-unified-
 - UML diagram of previous architecture from original codebase:
 ![UML Diagram of Old Architecture](Diagrams/Previous_UML_Diagram_Lyft_backend_project.png)
 
-## Task 2: Refactor a messy codebase
+## Task 2: Refactor the codebase
 - Implemented the new architecture using [Factory Pattern](https://refactoring.guru/design-patterns/factory-method) to allow easy extensibility going forward.
 - [Refactored](https://refactoring.guru/refactoring) the codebase.
 
